@@ -1,14 +1,4 @@
-/* =================================
-------------------------------------
-  Divisima | eCommerce Template
-  Version: 1.0
- ------------------------------------
- ====================================*/
 
-
-/*----------------------------------------*/
-/* Template default CSS
-/*----------------------------------------*/
 
 html,
 body {
@@ -511,7 +501,7 @@ ol {
 }
 
 .hero-slider .hs-item span {
-	font-size: 18px;
+	font-size: 28px;
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 3px;
@@ -533,7 +523,7 @@ ol {
 }
 
 .hero-slider .hs-item p {
-	font-size: 18px;
+	font-size: 24px;
 	font-weight: 300;
 	margin-bottom: 35px;
 	position: relative;
